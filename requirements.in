@@ -1,0 +1,10 @@
+'''
+Manually change this file when you install a dependency
+This file contains only the top level dependencies
+Dont use this for installing packages - This is only for reference!
+'''
+
+python-magic #file format detection
+chardet #Encoding detection
+rich #Clean Cli output
+pydantic #Data validation/modeling
